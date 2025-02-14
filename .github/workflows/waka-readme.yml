@@ -4,7 +4,6 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 17,0 * * *"
 
 jobs:
@@ -17,10 +16,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
-          SHOW_TITLE: false # optional
+          SHOW_TITLE: true # optional
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿" # optional
           CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_7_days # optional
           LANG_COUNT: 4 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
