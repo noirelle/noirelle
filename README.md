@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋🏻, I'm Noirelle 
 
-<!--
-**noirelle/noirelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Web Developer
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=xtln-tlnr&label=Profile%20Views&color=ffb6c1&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-ffb6c1?style=flat) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-ffb6c1?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software engineer focused on building **practical, reliable software solutions**. 
+My work centers on **web applications**, **security analysis**, and **technical problem-solving**.
+
+- 🌐 **Web Development**: Building responsive and functional digital experiences.
+- 🧠 **Security & Recovery**: Leveraging technical knowledge for system security and account recovery.
+- 🐞 **Problem Solving**: Dedicated to clean debugging and efficient system implementation.
+- 🌱 **Engineering**: Focused on code quality and modern development practices.
+
+---
+
+*“Code is the craft of turning complex problems into simple, functional solutions.”*
