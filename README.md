@@ -1,8 +1,8 @@
-# Hi 👋🏻, I'm Noirelle 
+# Hi 👋🏻, I'm Noirelle
 
 ## Software Engineer | Web Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=xtln-tlnr&label=Profile%20Views&color=ffb6c1&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-ffb6c1?style=flat) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-ffb6c1?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=noirelle&label=Profile%20Views&color=ff69b4&style=flat) ![Commits](https://img.shields.io/badge/Commits-Active-ff69b4?style=flat) ![Status](https://img.shields.io/badge/Status-Learning%20Everyday-ff69b4?style=flat)
 
 I am a software engineer focused on building **practical, reliable software solutions**. 
 My work centers on **web applications**, **security analysis**, and **technical problem-solving**.
